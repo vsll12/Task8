@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\EmptyFolder\\Lesson12\\Lesson12.csproj",
-      "projectName": "Lesson12",
-      "projectPath": "C:\\Users\\DELL\\Desktop\\EmptyFolder\\Lesson12\\Lesson12.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Task8\\DrinkWater.csproj",
+      "projectName": "DrinkWater",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\Task8\\DrinkWater.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Desktop\\EmptyFolder\\Lesson12\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\Task8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

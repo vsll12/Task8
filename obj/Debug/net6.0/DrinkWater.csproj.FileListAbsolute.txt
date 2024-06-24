@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\EmptyFolder\ConsoleApp1\bin\Debug\net6.0\DrinkWater.exe
+C:\Users\DELL\Desktop\EmptyFolder\ConsoleApp1\bin\Debug\net6.0\DrinkWater.deps.json
+C:\Users\DELL\Desktop\EmptyFolder\ConsoleApp1\bin\Debug\net6.0\DrinkWater.runtimeconfig.json
+C:\Users\DELL\Desktop\EmptyFolder\ConsoleApp1\bin\Debug\net6.0\DrinkWater.dll
+C:\Users\DELL\Desktop\EmptyFolder\ConsoleApp1\bin\Debug\net6.0\DrinkWater.pdb
+C:\Users\DELL\Desktop\EmptyFolder\ConsoleApp1\obj\Debug\net6.0\DrinkWater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\EmptyFolder\ConsoleApp1\obj\Debug\net6.0\DrinkWater.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\EmptyFolder\ConsoleApp1\obj\Debug\net6.0\DrinkWater.AssemblyInfo.cs
+C:\Users\DELL\Desktop\EmptyFolder\ConsoleApp1\obj\Debug\net6.0\DrinkWater.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\EmptyFolder\ConsoleApp1\obj\Debug\net6.0\DrinkWater.dll
+C:\Users\DELL\Desktop\EmptyFolder\ConsoleApp1\obj\Debug\net6.0\refint\DrinkWater.dll
+C:\Users\DELL\Desktop\EmptyFolder\ConsoleApp1\obj\Debug\net6.0\DrinkWater.pdb
+C:\Users\DELL\Desktop\EmptyFolder\ConsoleApp1\obj\Debug\net6.0\DrinkWater.genruntimeconfig.cache
+C:\Users\DELL\Desktop\EmptyFolder\ConsoleApp1\obj\Debug\net6.0\ref\DrinkWater.dll
